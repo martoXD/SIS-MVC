@@ -1,0 +1,14 @@
+C:\Users\martoXD\Desktop\WorkingProject\IRunes\IRunes.Data\bin\Debug\netcoreapp2.1\IRunes.Data.deps.json
+C:\Users\martoXD\Desktop\WorkingProject\IRunes\IRunes.Data\bin\Debug\netcoreapp2.1\IRunes.Data.runtimeconfig.json
+C:\Users\martoXD\Desktop\WorkingProject\IRunes\IRunes.Data\bin\Debug\netcoreapp2.1\IRunes.Data.runtimeconfig.dev.json
+C:\Users\martoXD\Desktop\WorkingProject\IRunes\IRunes.Data\bin\Debug\netcoreapp2.1\IRunes.Data.dll
+C:\Users\martoXD\Desktop\WorkingProject\IRunes\IRunes.Data\bin\Debug\netcoreapp2.1\IRunes.Data.pdb
+C:\Users\martoXD\Desktop\WorkingProject\IRunes\IRunes.Data\bin\Debug\netcoreapp2.1\IRunes.Models.dll
+C:\Users\martoXD\Desktop\WorkingProject\IRunes\IRunes.Data\bin\Debug\netcoreapp2.1\IRunes.Models.pdb
+C:\Users\martoXD\Desktop\WorkingProject\IRunes\IRunes.Data\obj\Debug\netcoreapp2.1\IRunes.Data.csprojAssemblyReference.cache
+C:\Users\martoXD\Desktop\WorkingProject\IRunes\IRunes.Data\obj\Debug\netcoreapp2.1\IRunes.Data.csproj.CoreCompileInputs.cache
+C:\Users\martoXD\Desktop\WorkingProject\IRunes\IRunes.Data\obj\Debug\netcoreapp2.1\IRunes.Data.AssemblyInfoInputs.cache
+C:\Users\martoXD\Desktop\WorkingProject\IRunes\IRunes.Data\obj\Debug\netcoreapp2.1\IRunes.Data.AssemblyInfo.cs
+C:\Users\martoXD\Desktop\WorkingProject\IRunes\IRunes.Data\obj\Debug\netcoreapp2.1\IRunes.Data.csproj.CopyComplete
+C:\Users\martoXD\Desktop\WorkingProject\IRunes\IRunes.Data\obj\Debug\netcoreapp2.1\IRunes.Data.dll
+C:\Users\martoXD\Desktop\WorkingProject\IRunes\IRunes.Data\obj\Debug\netcoreapp2.1\IRunes.Data.pdb

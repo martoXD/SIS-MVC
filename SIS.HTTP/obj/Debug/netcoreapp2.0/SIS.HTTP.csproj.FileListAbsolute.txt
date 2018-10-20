@@ -1,0 +1,9 @@
+C:\Users\martoXD\Desktop\WorkingProject\SIS.HTTP\bin\Debug\netcoreapp2.0\SIS.HTTP.deps.json
+C:\Users\martoXD\Desktop\WorkingProject\SIS.HTTP\bin\Debug\netcoreapp2.0\SIS.HTTP.dll
+C:\Users\martoXD\Desktop\WorkingProject\SIS.HTTP\bin\Debug\netcoreapp2.0\SIS.HTTP.pdb
+C:\Users\martoXD\Desktop\WorkingProject\SIS.HTTP\obj\Debug\netcoreapp2.0\SIS.HTTP.csprojAssemblyReference.cache
+C:\Users\martoXD\Desktop\WorkingProject\SIS.HTTP\obj\Debug\netcoreapp2.0\SIS.HTTP.csproj.CoreCompileInputs.cache
+C:\Users\martoXD\Desktop\WorkingProject\SIS.HTTP\obj\Debug\netcoreapp2.0\SIS.HTTP.AssemblyInfoInputs.cache
+C:\Users\martoXD\Desktop\WorkingProject\SIS.HTTP\obj\Debug\netcoreapp2.0\SIS.HTTP.AssemblyInfo.cs
+C:\Users\martoXD\Desktop\WorkingProject\SIS.HTTP\obj\Debug\netcoreapp2.0\SIS.HTTP.dll
+C:\Users\martoXD\Desktop\WorkingProject\SIS.HTTP\obj\Debug\netcoreapp2.0\SIS.HTTP.pdb
